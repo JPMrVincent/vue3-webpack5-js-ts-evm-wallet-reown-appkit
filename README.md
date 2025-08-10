@@ -1,4 +1,4 @@
-# vue3-webpack5-js-ts-evm-wallet-reown
+# vue3-webpack5-js-ts-evm-wallet-reown-appkit
 
 ### Description
     This is a demo for vue3, webpack5, JS writing, TS parsing.
